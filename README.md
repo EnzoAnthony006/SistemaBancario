@@ -1,0 +1,1 @@
+Projeto desenvolvido para consolidar habilidades aprendidas em Java: Arrays Classes utilitárias Exceções personalizadas Programação funcional (Streams, lambda) Coleções (List) Equals e HashCode O sistema permite gerenciamento de contas bancárias com menu interativo e geração de relatórios.
